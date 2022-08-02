@@ -26,18 +26,19 @@
     "url": "https://eagm.my/ping",
     "icon": "https://favicons.githubusercontent.com/eagm.my",
     "slug": "odesi-e-agm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 887,
-    "timeDay": 1106,
-    "timeWeek": 866,
-    "timeMonth": 886,
-    "timeYear": 883,
+    "timeDay": 1111,
+    "timeWeek": 897,
+    "timeMonth": 893,
+    "timeYear": 884,
     "dailyMinutesDown": {
+      "2022-08-02": 0,
       "2021-08-14": 16
     }
   }
