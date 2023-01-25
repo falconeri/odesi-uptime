@@ -4,18 +4,19 @@
     "url": "https://odesi.life/ping",
     "icon": "https://icons.duckduckgo.com/ip3/odesi.life.ico",
     "slug": "odesi-life",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1023,
+    "time": 1024,
     "timeDay": 1163,
     "timeWeek": 1203,
     "timeMonth": 1214,
     "timeYear": 1050,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-08-03": 56,
       "2022-04-02": 24
     }
