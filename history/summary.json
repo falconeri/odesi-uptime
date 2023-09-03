@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/odesi.life.ico",
     "slug": "odesi-life",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.44%",
     "time": 1154,
-    "timeDay": 1366,
-    "timeWeek": 1246,
-    "timeMonth": 1245,
-    "timeYear": 1221,
+    "timeDay": 1076,
+    "timeWeek": 1229,
+    "timeMonth": 1236,
+    "timeYear": 1220,
     "dailyMinutesDown": {
       "2023-04-18": 322,
       "2023-04-17": 1440,
@@ -33,15 +33,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 734,
-    "timeDay": 667,
-    "timeWeek": 612,
-    "timeMonth": 595,
-    "timeYear": 679,
+    "time": 733,
+    "timeDay": 506,
+    "timeWeek": 610,
+    "timeMonth": 592,
+    "timeYear": 677,
     "dailyMinutesDown": {
       "2022-11-22": 366,
-      "2022-09-19": 31,
-      "2022-09-03": 139
+      "2022-09-19": 31
     }
   }
 ]
