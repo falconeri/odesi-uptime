@@ -11,15 +11,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 1288,
-    "timeDay": 1184,
-    "timeWeek": 1290,
-    "timeMonth": 1272,
+    "timeDay": 1334,
+    "timeWeek": 1276,
+    "timeMonth": 1267,
     "timeYear": 1300,
     "dailyMinutesDown": {
       "2024-09-18": 438,
       "2024-09-17": 1440,
-      "2024-09-16": 1244,
-      "2024-07-16": 41
+      "2024-09-16": 1244
     }
   },
   {
@@ -28,16 +27,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/eagm.my.ico",
     "slug": "odesi-e-agm",
     "status": "up",
-    "uptime": "95.14%",
+    "uptime": "95.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "80.63%",
-    "time": 1780,
-    "timeDay": 908,
-    "timeWeek": 1117,
-    "timeMonth": 1098,
-    "timeYear": 2275,
+    "time": 1782,
+    "timeDay": 1190,
+    "timeWeek": 1120,
+    "timeMonth": 1102,
+    "timeYear": 2277,
     "dailyMinutesDown": {
       "2025-04-16": 326,
       "2025-04-15": 1440,
@@ -112,8 +111,7 @@
       "2025-02-05": 1440,
       "2025-02-04": 259,
       "2024-09-17": 71,
-      "2024-09-16": 298,
-      "2024-07-16": 40
+      "2024-09-16": 298
     }
   }
 ]
