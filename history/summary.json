@@ -4,19 +4,19 @@
     "url": "https://odesi.life/ping",
     "icon": "https://icons.duckduckgo.com/ip3/odesi.life.ico",
     "slug": "odesi-life",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 1297,
-    "timeDay": 1148,
-    "timeWeek": 1188,
-    "timeMonth": 1240,
+    "timeDay": 1258,
+    "timeWeek": 1211,
+    "timeMonth": 1244,
     "timeYear": 1293,
     "dailyMinutesDown": {
-      "2026-03-18": 1
+      "2026-03-18": 21
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 1046,
     "dailyMinutesDown": {
-      "2026-03-18": 695,
+      "2026-03-18": 716,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
