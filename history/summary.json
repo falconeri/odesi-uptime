@@ -6,15 +6,15 @@
     "slug": "odesi-life",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "98.53%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 1297,
-    "timeDay": 1261,
-    "timeWeek": 1212,
-    "timeMonth": 1242,
-    "timeYear": 1292,
+    "timeDay": 1011,
+    "timeWeek": 1191,
+    "timeMonth": 1234,
+    "timeYear": 1291,
     "dailyMinutesDown": {
       "2026-03-18": 21
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/eagm.my.ico",
     "slug": "odesi-e-agm",
     "status": "down",
-    "uptime": "93.35%",
+    "uptime": "93.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "80.41%",
-    "time": 991,
+    "time": 992,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1046,
     "dailyMinutesDown": {
-      "2026-03-19": 9,
+      "2026-03-20": 9,
+      "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
@@ -108,8 +109,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 1440,
-      "2025-03-20": 1440
+      "2025-03-21": 1440
     }
   }
 ]
